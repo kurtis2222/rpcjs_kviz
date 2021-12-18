@@ -1,0 +1,42 @@
+/=============================\
+|Rossz PC Játékok Sorozat Kvíz|
+\=============================/
+
+Készítette: Kurtis
+
+A játék futtatásához szükséges legalább a .Net Keretrendszer 2.0.
+Legalább 640x480-as felbontás szükséges a jó megjelenítésért.
+
+Rendszerigény
+=============
+- Windows 98 és késõbbiek
+- 24MB memória
+- 400Mhz-es processzor
+- Legalább 16 színt támogató videókártya és megjelenítõ
+- 50MB szabad terület
+- .Net Keretrendszer 2.0
+
+Játékmenet
+==========
+A fõmenüben választhatunk nehézségi fokot, hogy milyen nehéz
+kérdéssort adjon nekünk a játék, minden kérdéssor 85 kérdésbõl
+áll, kérdésenként nehézségtõl függõen: 64, 128, 192 pontokat
+lehet szerezni.
+A "Vakvéletlen" kérdéssor ez alól kivétel, mivel ott az összes
+létezõ nehézségû kérdésen végig kell menni, viszont ott lehet
+a legtöbb pontot összeszedni.
+Ha nem sikerülne az összes kérdésre válaszolni, attól még fel
+lehet kerülni a pontlistára (nem internetes a pontlista).
+
+A legnehezebb fokozat kérdései között elõfordulnak olyanok,
+amiket nem a Rossz PC Játékok Sorozat videóiból vette, hanem
+érdekességként illesztettem be, a legtöbbjüket ki lehet
+következtetni.
+
+Csalás
+======
+A fõmenüben nyomd meg egymás után a következõ gombokat: M,I,L
+Ha aktiválod a csalást a játékban, minden elrontott kérdésért
+lenullázza a pontjaidat.
+
+A játék ötlete Bélabá Freddy kvíz játékából jött.
